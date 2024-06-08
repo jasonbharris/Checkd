@@ -14,7 +14,7 @@ todo application in my Javascript Tutorial.
 
 I hope that you enjoy the tutorials that I have created and if you
 would like to support my channel all you have to do is buy me a cup of
-coffee so that I will be able to create better tutorials for you to view
+[coffee](https://buymeacoffee.com/devwithjason) so that I will be able to create better tutorials for you to view
 as I progress.
 
 Now all you have to do is download the starter file where I have stored
