@@ -1,4 +1,4 @@
-- Welcome to Checkd
+Welcome to Checkd
 
 This is a YouTube tutorial for learning HTML, CSS, and JavaScript.
 I wanted to put a new twist on building the conventional todo list
